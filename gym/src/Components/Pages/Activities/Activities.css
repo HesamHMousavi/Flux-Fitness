@@ -1,0 +1,10 @@
+.activities{
+}
+.header-img-con   {
+    width: 100%;
+}
+.header-img-con  img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

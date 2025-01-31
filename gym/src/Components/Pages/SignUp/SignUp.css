@@ -1,0 +1,15 @@
+.sign-up{
+    min-height: 700px;
+}
+.sign-up .right{
+    width: 50%;
+    justify-content: flex-start;
+}
+.sign-up .left{
+    width: 50%;
+}
+.sign-up .left img{
+    height: auto;
+    width: 70%;
+    object-fit: cover;
+}

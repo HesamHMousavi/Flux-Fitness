@@ -1,0 +1,18 @@
+.header{
+    height: 70px;
+    width: 100%;
+}
+.header .links{
+    gap: 1rem !important;
+}
+.header .links .link{
+    padding: 10px 1rem;
+    transition: var(--trans);
+    transition: all 0.2s;
+    border-radius: 10px ;
+    cursor: pointer;
+}
+.header .links .link:hover{
+    background-color: var(--light-gray);
+}
+

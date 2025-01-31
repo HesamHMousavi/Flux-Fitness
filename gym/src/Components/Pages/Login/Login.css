@@ -1,0 +1,15 @@
+.login{
+    min-height: 700px;
+}
+.login .right{
+    width: 50%;
+    justify-content: flex-start;
+}
+.login .left{
+    width: 50%;
+}
+.login .left img{
+    height: auto;
+    width: 80%;
+    object-fit: cover;
+}

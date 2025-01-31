@@ -1,0 +1,9 @@
+.footer{
+    height: 400px;
+    width: 100%;
+    padding: 2rem !important;
+}
+.footer .footer-item{
+    width: 100%;
+    align-items: start;
+}
