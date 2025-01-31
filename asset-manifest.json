@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Flux-Fitness/static/css/main.2223ff89.css",
+    "main.js": "/Flux-Fitness/static/js/main.de3bbc0e.js",
+    "static/media/pool.jpg": "/Flux-Fitness/static/media/pool.99d12f0c201061fe1bf3.jpg",
+    "static/media/activities.jpg": "/Flux-Fitness/static/media/activities.c92fbd98678637f98d9d.jpg",
+    "static/media/img5.jpg": "/Flux-Fitness/static/media/img5.c9c87a5d051e11d111ca.jpg",
+    "static/media/ten.jpg": "/Flux-Fitness/static/media/ten.dda588bfa4f7b76cf46b.jpg",
+    "static/media/yoga.jpg": "/Flux-Fitness/static/media/yoga.baa647258a49902e22e2.jpg",
+    "static/media/login.jpg": "/Flux-Fitness/static/media/login.5248649b76fc3d99c241.jpg",
+    "static/media/img7.jpg": "/Flux-Fitness/static/media/img7.6df9a07992539ed85cb0.jpg",
+    "static/media/gym.jpg": "/Flux-Fitness/static/media/gym.f07ef83fa3a626100743.jpg",
+    "static/media/signup.jpg": "/Flux-Fitness/static/media/signup.b5b25746b64a53143dbd.jpg",
+    "static/media/img6.jpg": "/Flux-Fitness/static/media/img6.541e029f020e8f826ea7.jpg",
+    "static/media/img8.jpg": "/Flux-Fitness/static/media/img8.4d2b4164322882476b91.jpg",
+    "static/media/img1.jpg": "/Flux-Fitness/static/media/img1.be21ec8fc5dedc3b789a.jpg",
+    "index.html": "/Flux-Fitness/index.html",
+    "main.2223ff89.css.map": "/Flux-Fitness/static/css/main.2223ff89.css.map",
+    "main.de3bbc0e.js.map": "/Flux-Fitness/static/js/main.de3bbc0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2223ff89.css",
+    "static/js/main.de3bbc0e.js"
+  ]
+}
