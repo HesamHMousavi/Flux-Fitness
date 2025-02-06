@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/Flux-Fitness/static/css/main.2223ff89.css",
-    "main.js": "/Flux-Fitness/static/js/main.de3bbc0e.js",
-    "static/media/pool.jpg": "/Flux-Fitness/static/media/pool.99d12f0c201061fe1bf3.jpg",
-    "static/media/activities.jpg": "/Flux-Fitness/static/media/activities.c92fbd98678637f98d9d.jpg",
-    "static/media/img5.jpg": "/Flux-Fitness/static/media/img5.c9c87a5d051e11d111ca.jpg",
-    "static/media/ten.jpg": "/Flux-Fitness/static/media/ten.dda588bfa4f7b76cf46b.jpg",
-    "static/media/yoga.jpg": "/Flux-Fitness/static/media/yoga.baa647258a49902e22e2.jpg",
-    "static/media/login.jpg": "/Flux-Fitness/static/media/login.5248649b76fc3d99c241.jpg",
-    "static/media/img7.jpg": "/Flux-Fitness/static/media/img7.6df9a07992539ed85cb0.jpg",
-    "static/media/gym.jpg": "/Flux-Fitness/static/media/gym.f07ef83fa3a626100743.jpg",
-    "static/media/signup.jpg": "/Flux-Fitness/static/media/signup.b5b25746b64a53143dbd.jpg",
-    "static/media/img6.jpg": "/Flux-Fitness/static/media/img6.541e029f020e8f826ea7.jpg",
-    "static/media/img8.jpg": "/Flux-Fitness/static/media/img8.4d2b4164322882476b91.jpg",
-    "static/media/img1.jpg": "/Flux-Fitness/static/media/img1.be21ec8fc5dedc3b789a.jpg",
-    "index.html": "/Flux-Fitness/index.html",
-    "main.2223ff89.css.map": "/Flux-Fitness/static/css/main.2223ff89.css.map",
-    "main.de3bbc0e.js.map": "/Flux-Fitness/static/js/main.de3bbc0e.js.map"
+    "main.css": "/79J/static/css/main.94071346.css",
+    "main.js": "/79J/static/js/main.6a0151c4.js",
+    "static/media/bar-main.jpg": "/79J/static/media/bar-main.5d135619233fc66c4ecc.jpg",
+    "static/media/rings.jpg": "/79J/static/media/rings.f42444f246b923b11dd3.jpg",
+    "static/media/landing.jpg": "/79J/static/media/landing.4800016d09aace333214.jpg",
+    "static/media/bangal.png": "/79J/static/media/bangal.29e2bb8a9472c928ae58.png",
+    "static/media/bra-long.png": "/79J/static/media/bra-long.d04421ec76f1d6bd6216.png",
+    "static/media/pic.jpg": "/79J/static/media/pic.0c0ff835d612c3c1ec08.jpg",
+    "static/media/neck.jpg": "/79J/static/media/neck.ae333454071e0a0e8d2d.jpg",
+    "static/media/necless-long.png": "/79J/static/media/necless-long.c4b5d7d78bd6205101b9.png",
+    "static/media/ring-long.png": "/79J/static/media/ring-long.9e3a91ed0967887f8238.png",
+    "static/media/wedding.jpg": "/79J/static/media/wedding.fb95cea1194e7635ad0b.jpg",
+    "static/media/land.png": "/79J/static/media/land.7f6a0e3fa825cfd62081.png",
+    "static/media/wedding3.jpeg": "/79J/static/media/wedding3.d6e6edc239a8e956a0d2.jpeg",
+    "static/media/landing2.jpg": "/79J/static/media/landing2.4b30ec65d74fd99c8759.jpg",
+    "static/media/wedding4.jpeg": "/79J/static/media/wedding4.4e949aed41b747ae91b7.jpeg",
+    "static/media/store3.jpeg": "/79J/static/media/store3.64363e56bb0db866b7e1.jpeg",
+    "static/media/wedding2.jpeg": "/79J/static/media/wedding2.65e25b1ebf597c1b6a86.jpeg",
+    "static/media/wedding1.jpeg": "/79J/static/media/wedding1.baf3bd4af0f84ecc85a7.jpeg",
+    "static/media/store2.jpeg": "/79J/static/media/store2.72b1939f73dff1460f4b.jpeg",
+    "static/media/gold-bar.jpg": "/79J/static/media/gold-bar.da1334de64f51451bbe6.jpg",
+    "index.html": "/79J/index.html",
+    "main.94071346.css.map": "/79J/static/css/main.94071346.css.map",
+    "main.6a0151c4.js.map": "/79J/static/js/main.6a0151c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2223ff89.css",
-    "static/js/main.de3bbc0e.js"
+    "static/css/main.94071346.css",
+    "static/js/main.6a0151c4.js"
   ]
 }
